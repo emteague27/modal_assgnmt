@@ -8,13 +8,17 @@
 }
 
 #modalContent {
-	border: 2px solid white;
-/*	background-color: black;*/
 	font-family: 'Source Sans Pro', sans-serif;'
 	color: white;
 	font-size: 20px;
-	width: 50%;
-	text-align: center;
+	width: 100%;
+}
+
+iframe{
+	width: 560;
+	margin-top: 170px;
+	margin-right: 150px;
+	margin-left: 325px;
 }
 
 #showName {
