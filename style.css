@@ -26,32 +26,35 @@ iframe{
 	color: white;
 	font-size: 30px;
 	padding-left: 30px;
-	padding-right: 120px;
+	padding-right: 110px;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 300;
 }
 
 #contentBox {
+	background-color: rgba(0,0,0,0.2);
 	width: 30%;
 	float: left;
-	border: 1.5px dotted rgba(0,0,0,0.5);
-	margin-top: 15%;
+	margin-top: 18%;
 	margin-left: 3%;
 	padding-left: 2%;
 }
 
 h1 {
 	width: 90%;
-	text-align: center;
+	text-align: left;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 400;
+	color: white;
+	text-transform: uppercase;
 }
 
 h3 {
 	width: 90%;
-	text-align: center;
+	text-align: left;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 300;
+	color: white;
 }
 
 body{
