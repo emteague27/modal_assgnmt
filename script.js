@@ -1,9 +1,10 @@
 $(document).ready(function(){
 
-	$('html').mousemove(function(){
-		('#modalContainer').show();
-		('#modalContainer').on('click', function(){
-			('#modalContainer').(hide);
+	$('body').on('mousedown', function(){
+		console.log('hello');
+		$('#modalContainer').show();
+		$('#modalContainer').on('click', function(){
+			$('#modalContainer').hide();
 		});
 	});
 
