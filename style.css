@@ -18,7 +18,7 @@ iframe{
 	width: 560;
 	margin-top: 170px;
 	margin-right: 150px;
-	margin-left: 325px;
+	margin-left: 28%;
 }
 
 #showName {
@@ -58,7 +58,7 @@ h3 {
 }
 
 body{
-	background: url(images/outlander2.jpg) center fixed no-repeat;
+	background: url(images/outlander2.jpg) center center fixed no-repeat;
 	background-size: cover;
 }
 
