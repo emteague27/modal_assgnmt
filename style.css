@@ -58,7 +58,7 @@ h3 {
 }
 
 body{
-	background-image: url(images/outlander2.jpg);
+	background: url(images/outlander2.jpg) center fixed no-repeat;
 }
 
 ul{
